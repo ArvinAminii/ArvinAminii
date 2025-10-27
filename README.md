@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 🍻, I'm Arvin Amini</h1>
-<h3 align="center">I'm a junior python developer interested in working with data, AI and ML.</h3>
+<h3 align="center">I'm a junior python developer interested in working with DATA, AI and ML.</h3>
 
 🔭 I’m currently working on: **Improving my coding experience**<br>🌱 I’m currently learning: **Numpy,Pandas,Matplotlib**<br>⚡ Fun fact: **I love nature and traveling, enjoy various sports and i appreciate a good cup of coffee☕**<br>
 
