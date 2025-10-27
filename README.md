@@ -6,7 +6,6 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arvin.workshop101@gmail.com)
-[![linkedln](https://www.linkedin.com/in/arvin-amini-769ba9342/)
 
 
 # 💻 Tech Stack:
